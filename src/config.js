@@ -1,5 +1,5 @@
 const config = {
-	ownerID: ['YourAccountID'],
+	ownerID: ['585485681409654784'],
 	token: 'OTM3MDk1NzkwMjczMzk2NzQ2.YfWwdg.J4PzwyTgz1vpJDLGOcoQtpoCsrU',
 	// For looking up Twitch, Fortnite, Steam accounts
 	api_keys: {
