@@ -1,12 +1,12 @@
 const config = {
 	ownerID: ['YourAccountID'],
-	token: 'OTM3MDk1NzkwMjczMzk2NzQ2.YfWwdg.ro-4P5t4fzdfI3klghGwR4L7gVM',
+	token: 'OTM3MDk1NzkwMjczMzk2NzQ2.YfWwdg.J4PzwyTgz1vpJDLGOcoQtpoCsrU',
 	// For looking up Twitch, Fortnite, Steam accounts
 	api_keys: {
 		// https://dev.twitch.tv/console/apps
 		twitch: {
-			clientID: '',
-			clientSecret: '',
+			clientID: '937095790273396746',
+			clientSecret: 'ahmPKbOdq0w9GPKglGiaJJAaWTw_0bmj',
 		},
 		// https://fortnitetracker.com/site-api
 		fortnite: 'fortniteAPI-Key',
